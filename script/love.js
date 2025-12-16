@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("I love you sayang", width / 2, height / 2.2 + 400);
+    ctx.fillText("I loveee youuu eyyyaaaa", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {
@@ -99,7 +99,7 @@ function init() {
       q: ~~(rand() * heartPointsCount),
       D: 2 * (i % 2) - 1,
       force: 0.2 * rand() + 0.7,
-      f: "rgba(51, 204, 255, 0.7)",
+      f: "rgba(255, 20, 147, 0.7)",
       trace: Array.from({ length: traceCount }, () => ({ x, y })),
     };
   }
@@ -184,3 +184,4 @@ document.addEventListener("DOMContentLoaded", function () {
   init();
   continueMusic();
 });
+
