@@ -24,7 +24,7 @@ const messages = [
     "hmmmm",
     "yaudaaaa dehhhh",
     "padahallll",
-    "aku cuma mau bilang",
+    "akuuu cumaaaa mauuu bilanggg",
     "kepasar beli terasi pulangnya makan kadal",
     "i love you💗",
     "akuuu tebakk kamuuu pastiii saltinggg hhehehe",
@@ -126,3 +126,4 @@ function setupMusic() {
 
 
 document.addEventListener('DOMContentLoaded', setupMusic);
+
