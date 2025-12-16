@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("I loveee youuu eyyyaaaa", width / 2, height / 2.2 + 400);
+    ctx.fillText("boleee gaaa kalooo kamuuu jadii punyaaa akuu ajaa🙈?", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {
@@ -184,4 +184,5 @@ document.addEventListener("DOMContentLoaded", function () {
   init();
   continueMusic();
 });
+
 
