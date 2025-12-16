@@ -37,7 +37,7 @@ function init() {
 
   function drawText() {
     ctx.font = "60px Arial";
-    ctx.fillStyle = "#FFC0CB";
+    ctx.fillStyle = "pink";
     ctx.textAlign = "center";
     ctx.fillText("boleee gaaa kalooo kamuuu jadii punyaaa akuu ajaa🙈?", width / 2, height / 2.2 + 400);
   }
@@ -99,7 +99,7 @@ function init() {
       q: ~~(rand() * heartPointsCount),
       D: 2 * (i % 2) - 1,
       force: 0.2 * rand() + 0.7,
-      f: "rgba(255, 20, 147, 0.7)",
+      f: "rgba(255, 182, 193, 0.7)",
       trace: Array.from({ length: traceCount }, () => ({ x, y })),
     };
   }
@@ -184,6 +184,7 @@ document.addEventListener("DOMContentLoaded", function () {
   init();
   continueMusic();
 });
+
 
 
 
