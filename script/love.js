@@ -37,7 +37,7 @@ function init() {
 
   function drawText() {
     ctx.font = "60px Arial";
-    ctx.fillStyle = "lightblue";
+    ctx.fillStyle = "#FFC0CB";
     ctx.textAlign = "center";
     ctx.fillText("boleee gaaa kalooo kamuuu jadii punyaaa akuu ajaa🙈?", width / 2, height / 2.2 + 400);
   }
@@ -184,5 +184,6 @@ document.addEventListener("DOMContentLoaded", function () {
   init();
   continueMusic();
 });
+
 
 
