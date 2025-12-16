@@ -9,25 +9,26 @@ document.addEventListener('keydown', function(e) {
 });
 
 const messages = [
-    "Tap dimana aja yaaa",
-    "hey kamu ❤️",
-    "aku mau ngomong sesuatu nih",
-    "coba pencet",
-    "pencet lagi",
-    "ayo semangat mencetnya",
-    "janji ini terakhir",
-    "serius",
-    "ini",
-    "terakhir",
-    "tapi bohong hehe yahaha hayyuk",
-    "aku tau pasti kamu kesal",
-    "hmm",
-    "yaudah deh",
-    "padahal",
+    "cobaaa tap dimanaaa ajaaa",
+    "halllawww eyyyaaaa👋",
+    "akuuuuu mauuuuu ngomonggg sesuatuuuu niiiii",
+    "cobaaaaa pencetttt",
+    "pencetttt lagiiiii",
+    "ayoooo semangatttt mencetnyaaaa",
+    "janjiiiii iniiii terakhirr dehhh",
+    "seriussss",
+    "iniiii",
+    "terakhirrrr😭😭",
+    "benerann mauuu tauuu niii?",
+    "akuuu tauuu pastiii kamuuu kesalll😜",
+    "hmmmm",
+    "yaudaaaa dehhhh",
+    "padahallll",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you❤️",
-    "bjiirlah",
+    "i love you💗",
+    "akuuu tebakk kamuuu pastiii saltinggg hhehehe",
+    "samaaaa akuu jugaaaa😊😭😭",
     "coba pencet tombol dibawah ini 💝"
 ];
 
@@ -122,5 +123,6 @@ function setupMusic() {
         document.removeEventListener('click', startMusic);
     });
 }
+
 
 document.addEventListener('DOMContentLoaded', setupMusic);
